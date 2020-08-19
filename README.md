@@ -1,6 +1,6 @@
 ## Try it
 
-[https://my-json-server.enotmaxim.com/Enotmaxim/demo](https://my-json-server.typicode.com/typicode/demo)
+[https://my-json-server.enotmaxim.com/Enotmaxim/demo](https://my-json-server.enotmaxim.com/enotmaxim/demo)
 
 ## Use your own data
 
